@@ -1,0 +1,8 @@
+PyYaml
+fastapi
+uvicorn
+starlette==0.13.6
+pydantic
+requests
+ujson
+python-multipart
